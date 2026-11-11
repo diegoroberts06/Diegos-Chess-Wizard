@@ -29,6 +29,7 @@ python chess_wizard__1.py
 - Python with a customtkinter GUI
 - Ratings engine based on the standard Elo expected-score formula
 - Data stored locally as JSON, no account or internet connection needed
+- Some AI development assistance
 
 ## Why I built it
 
